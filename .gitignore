@@ -1,0 +1,7 @@
+Tryweb/__pycache__/*
+
+berita/migrations/*
+berita/__pycache__/*
+
+pengguna/migrations/*
+pengguna/__pycache__/*
